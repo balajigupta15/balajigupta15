@@ -1,4 +1,4 @@
-- 👋 Hi, I’m idiot 
+- 👋 Hi, I’m a programmer
 - 👀 I’m interested in code
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on books
