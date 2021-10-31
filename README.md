@@ -1,7 +1,6 @@
-- 👋 Hi, I’m a programmer
-- 👀 I’m interested in code
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on books
+Hi my name is balaji gupta.
+i came to this virtual world because i love it. it is more cool than real life
+
 
 <!---
 balajigupta15/balajigupta15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
